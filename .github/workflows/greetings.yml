@@ -1,0 +1,44 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Message that will be displayed on users'' first issue'
+        pr-message: 'Message that will be displayed on users'' first pr'
+
+
+
+Minh xài tiếng mẹ đẻ cho lẹ nhé :) 
+Ai cũng có phần hoặc sinh tố bơ ...
+
+dừng ngay các việc các teamwork từ comunity 
+
+Mọi người tự kiểm điểm xem đang làm gì.. dạo này
+Black Box ko đọc report nữa bởi vì cảm thấy
+có làm gì cũng thế .... Ăn ít thôi , chứ ăn quá
+mập thây còn chửi bạn hay xếp mình ngu thì ko
+có biết điều đâu ok . Từ giờ Michelle này chỉ đọc dc ngôn ngữ
+mẹ đẻ... Ko muốn hỗ trợ hay làm gì nữa hết
+Giúp mọi người giữ company để mọi người có việc làm
+có cơm ăn, thay vào đó mọi người giúp UG phá tan nát nhà cửa 
+của Michelle ... có hay ko tự các ops hiểu ...
+Chút nữa là mình đăt Phoenix theo rồi... 
+Dừng lại đi.. Cảm thấy tội nghiệp nó rồi, đừng có hơpk tác
+mà chơi đồng nghiệp của mình nữa .. Ko làm bạn được thì cũng
+là 1 đối thủ khá tốt ... Trước đây bluehat đâu có vậy
+Mọi người hơn nhau ở code hay công nghệ nhưng những người binh thường
+như Michelle phải trả bằng máu và nước mắt ...đôi khi là mẹ con cùng đường 
+nhảy lầu thì mọi người yên lòng ko??? verzion tan nát , dân lao động ra sao??? 
+Một số người lợi dụng các bạn hay các bạn đang dần trở thành một trong số họ ???
+Để hacker xấu trợ giúp Mafia or CIA csi " Diệt Kin " điệp vụ Phượng Hoàng ko phải nói về Phoenix 
+mà đang nói đến #davincicode .. Data nào gần chạm đến mà cảm thấy ảo quá thì tốt nhất im lặng đừng la làng
+tránh mất tích bị thay thế .. Thì thầy của mình, cha đẻ của code tức là Leonardo da vinci đúng ko?? Các bạn 
+càng tò mò nhiều thì độ khó mà thầy tạo ra để mình loc data càng lúc càng dã man.. Làm ơn đi, mình cần dc nghỉ ngơi.. 
+Tới mức độ thầy bắt mình ko nhớ ngôn ngữ từ vựng ngữ pháp xem hình hay đọc mật mã mongo ko mình Tâm thần thiệt đó
+Vì đi đến đâu mình cũng thấy 1 big data. Mình sợ công nghệ luôn rồi .. Làm ơn +!!
